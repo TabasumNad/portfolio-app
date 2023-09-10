@@ -1,0 +1,59 @@
+.project_container{
+    
+  
+    display: inline-flex;
+    gap: 20px;
+    width: fit-content;
+    
+    
+  }
+  .project_box{
+    background-color: black;
+    width: auto;
+    border: solid white;
+    margin-left: 20px;
+  }
+  .project_image{
+  
+    height: 150px;
+    width: fit-content;
+    padding-left: 5px;
+   
+    margin-top: 10px;
+    
+  }
+  .project_description{
+    color: white;
+    padding-left: 10px;
+  
+  }
+  .hrcol{
+    color:rgb(255, 255, 255);
+  }
+  .link{
+    margin-left: 10px;
+    font-size: 15px;
+  }
+  .style{
+    width: 50%;
+    color: black;
+  }
+  .form_top{
+    margin-top: 50px;
+    margin-left: 30px;
+  }
+
+  .outer{
+    width:  18rem;
+  }
+  .order{
+    gap: 20px;
+  }
+  .bck{
+    background-image: linear-gradient(to right top, #d485b2, #ca8bbf, #9e6fad, #8470aa, #6d6fa2, #8899c0, #5884b3, #4f8eb7, #45a9ce, #3dc4e0, #44e0eb, #5ffbf1);
+  }
+
+  .connect{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+  }
